@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TrivialSequenceServer.iml" filepath="$PROJECT_DIR$/TrivialSequenceServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TriSeqServer.iml" filepath="$PROJECT_DIR$/TriSeqServer.iml" />
     </modules>
   </component>
 </project>
