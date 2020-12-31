@@ -1,6 +1,13 @@
 #ignore files
-
-trivial-sequential-server/TriSeqCliente/out/
-trivial-sequential-serverTriSeqServer/out/
-trivial-sequential-server/TriSeqCliente/.idea/sonarlint/
-trivial-sequential-server/TriSeqServer/.idea/sonarlint/
+ 
+#trivial-sequential-server
+trivial-sequential-server/TriSeqCliente/out/**
+trivial-sequential-serverTriSeqServer/out/**
+trivial-sequential-server/TriSeqCliente/.idea/**
+trivial-sequential-server/TriSeqServer/.idea/**
+ 
+#simple-threaded-server
+simple-threaded-server/CapitalizeClient/out/production/**
+simple-threaded-server/CapitalizeSever/out/*
+simple-threaded-server/CapitalizeSever/.idea/**
+simple-threaded-server/CapitalizeClient/.idea/**
