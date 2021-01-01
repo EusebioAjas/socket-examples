@@ -1,13 +1,21 @@
 #ignore files
  
 #trivial-sequential-server
-trivial-sequential-server/TriSeqCliente/out/production/**
-trivial-sequential-serverTriSeqServer/out/production/**
+trivial-sequential-server/TriSeqCliente/out/production/
+trivial-sequential-serverTriSeqServer/out/production/
 trivial-sequential-server/TriSeqCliente/.idea/**
 trivial-sequential-server/TriSeqServer/.idea/**
  
 #simple-threaded-server
-simple-threaded-server/CapitalizeClient/out/production/**
-simple-threaded-server/CapitalizeSever/out/production/**
-simple-threaded-server/CapitalizeSever/.idea/**
+simple-threaded-server/CapitalizeClient/out/production/
+simple-threaded-server/CapitalizeServer/out/production/
+simple-threaded-server/CapitalizeServer/.idea/**
 simple-threaded-server/CapitalizeClient/.idea/**
+
+#tic-tac-toe-game
+tic-tac-toe-game/TicTacToeClient/out/production/
+tic-tac-toe-game/TicTacToeServer/out/production/
+tic-tac-toe-game/TicTacToeClient/.idea/**
+tic-tac-toe-game/TicTacToeServer/.idea/**
+
+
