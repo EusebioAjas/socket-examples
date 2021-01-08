@@ -1,0 +1,5 @@
+
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(øŒ¼Æ8íŸ¡¥ì.
+X	java:S125("<This block of commented-out lines of code should be removed.(÷îø€8íŸ¡¥ì.
+j
+java:S2095 "HUse try-with-resources or close this "FileWriter" in a "finally" clause.(ÙóÅıÿÿÿÿ8íŸ¡¥ì.
